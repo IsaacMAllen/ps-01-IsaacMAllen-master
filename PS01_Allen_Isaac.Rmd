@@ -1,0 +1,29 @@
+---
+title: "Getting to Know RStudio."
+author: "Isaac Allen"
+output: html_document
+---
+
+
+## This is a header
+Text goes here in the white part.
+
+## This is another header
+Below is a code chunk! Code goes in here:
+
+```{r}
+x <- 6
+```
+
+```{r}
+favorite_movie <- "Star_Wars"
+```
+
+```{r}
+v <- c(2, 4, 6)
+```
+
+```{r}
+v * 3
+```
+
